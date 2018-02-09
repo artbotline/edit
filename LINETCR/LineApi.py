@@ -606,9 +606,10 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("Bagas~")
-      print("mid -> " + prof.mid)
-      print("name -> " + prof.displayName)
-      print("authToken -> " + self.authToken)
-      print("cert -> " + self.cert if self.cert is not None else "")
-#-========-----------------
+      print("==================LINEVIT==================")
+      print("           line.me/ti/p/~esci_")
+      print("Mid : " + prof.mid)
+      print("Name : " + prof.displayName)
+      print("authToken :  " + self.authToken)
+      print("Cert : " + self.cert if self.cert is not None else "")
+      print("===========================================")
