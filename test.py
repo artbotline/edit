@@ -12,31 +12,31 @@ from gtts import gTTS
 from googletrans import Translator
 
 cl = LINETCR.LINE() 
-cl.login(token="EpcbG28cbJEfXFls6Gd3.9pc5VLFn+Rb3fh1KRa0l8W.AlkqLQpZAx4UhVq0CEMPFG5TKjKr0AACf7SpRMCBf/o=")
+cl.login(token="")
 print "cl login success"
 
 ki = LINETCR.LINE() 
-ki.login(token="EpWHII19oBlVVufVumI9.QqUY5RXmnjX22QWyhYRVYq.8mm9tWhnZ60nqVrJrEYQwC8QKPFNLZvTKFHMZbtRqSY=")
+ki.login(token="")
 print "ki login success"
 
 ki2 = LINETCR.LINE() 
-ki2.login(token="EptMwvRfjWTFPnlfMHRc.fViUrRyK4mVvOBQlBiIQ7a.uhZYGPq7RVue7y7KtCZJrp0zom60flM9kKP/YWhjuXg=")
+ki2.login(token="")
 print "ki2 login success"
 
 ki3 = LINETCR.LINE() 
-ki3.login(token="EpJDzcpUJHdwKrZnCkS3.iZGepSr4S3ocUb9d+YflyW.ytwimTw7zerKIzROtBIwPvN+duO80z17URNTOGEZVXU=")
+ki3.login(token="")
 print "ki3 login success"
 
 ki4 = LINETCR.LINE() 
-ki4.login(token="EpnD9C3N5gsQJ63ePe1a.gTcG3a066nCBC02KOU2wEG.n2BO15KcFDeqIzBWFd3JdyGfYNjjPbMzLOip+JGR5tg=")
+ki4.login(token="")
 print "ki4 login success"
 
 ki5 = LINETCR.LINE() 
-ki5.login(token="EplFRlf3c6blXZmfb5E9.glvUGMKIz5ylyjKrZRIckq.BInoz0SvnWrIr8pVHqanZZIuSNRP7Pgn/ecQTDB4gxY=")
+ki5.login(token="")
 print "ki5 login success"
 
 ki6 = LINETCR.LINE() 
-ki6.login(token="EpxEJnsZImEByXLOCamf.OPdMEHv+nwMNFrcrrPK8hW.aWO9bOTt0nlQtKJlqpP8dnr7onPmVrHgaYDlHOnoJE4=")
+ki6.login(token="")
 print "ki6 login success"
 
 reload(sys)
