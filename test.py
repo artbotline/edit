@@ -215,11 +215,11 @@ ki5mid = ki5.getProfile().mid
 ki6mid = ki6.getProfile().mid
 
 mid = cl.getProfile().mid
-Bots = ["uf0ea81a4b3e54bb711d8352eb649e18e","ud349eaafe39088bdbb384d1cfa6c38a9","u00b0b737c39269fb3e1fb7334f371166","u3c879b92e0f64b32936026ed5e2dba79","ub97e7a4024fd8f2576755420c9861a67","udf9c7f239408254bf2c60456ee47bb49","u65437c1fb469a5d7020b1a72ca1c5d89"]
-self = ["uf0ea81a4b3e54bb711d8352eb649e18e"]
-admin = ["uf0ea81a4b3e54bb711d8352eb649e18e"]
-owner = ["uf0ea81a4b3e54bb711d8352eb649e18e"]
-Creator = ["uf0ea81a4b3e54bb711d8352eb649e18e"]
+Bots = ["uf4f0b9be57cdfeb077147d64ac0d0bf3",mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
+self = ["uf4f0b9be57cdfeb077147d64ac0d0bf3",mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
+admin = ["uf4f0b9be57cdfeb077147d64ac0d0bf3e"]
+owner = ["uf4f0b9be57cdfeb077147d64ac0d0bf3"]
+Creator = ["uf4f0b9be57cdfeb077147d64ac0d0bf3"]
 
 wait = {
     "alwayRead":False,
