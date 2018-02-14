@@ -1467,6 +1467,17 @@ def bot(op):
                     else:
                         cl.sendText(msg.to,"Can not be used for groups other than ô€œ")
 #======================================================#
+elif msg.text in ["เงิน..5/4","ไม่ป้องกันfsdfdsเลย"]:
+                        cl.sendText(msg.to,"เงิน..5/4")
+elif msg.text in ["เงิน..3/2","ไม่ป้องกันfsdfdsเลย"]:          
+                        cl.sendText(msg.to,"เงิน..3/2")
+elif msg.text in ["เงิน..5/3","ไม่ป้องกันfsdfdsเลย"]:            
+                        cl.sendText(msg.to,"เงิน..5/3")
+ elif msg.text in ["เงิน..7/4","ไม่ป้องกันfsdfdsเลย"]:           
+                        cl.sendText(msg.to,"เงิน..7/4")
+                        cl.sendText(msg.to,"เงิน..7/4")
+                        cl.sendText(msg.to,"เงิน..7/4")   
+#======================================================#                                    
             elif msg.text in ["tome all on","Tome all on"]:
                     cl.sendText(msg.to,"Qr on")
                     cl.sendText(msg.to,"Backup:on")
